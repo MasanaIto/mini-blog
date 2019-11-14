@@ -1,5 +1,8 @@
 <?php
 
+echo "Hello!";
+exit;
+
 require '../bootstrap.php';
 require '../MiniBlogApplication.php';
 
